@@ -46,7 +46,7 @@ display: block;
 height:45%;
 width: 45%;
 }
-@media only screen and (min-width:320px) and (max-width:480px){
+@media only screen and (min-width:481px) and (max-width:768px){
   .parent{
     display:flex;
     flex-direction:column;
