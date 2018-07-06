@@ -58,6 +58,8 @@ width: 45%;
     border:5px solid #111;
     margin: 4%;
     text-align: center;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
   }
   .childTwo{
     width: 60%;
