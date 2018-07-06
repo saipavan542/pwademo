@@ -13,6 +13,9 @@ h1{
   margin: 4%;
   text-align: center;
   text-align: center;
+  box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
+   
 }
 .childTwo{
   width:40%;
@@ -21,6 +24,8 @@ h1{
   margin: 4%;
   background-color: black;
   color:white;
+  box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
 }
 .childThree{
   margin: auto;
@@ -31,6 +36,8 @@ h1{
   text-align: center;
   background-color: blue;
   color:white;
+  box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
 
 }
 img{
