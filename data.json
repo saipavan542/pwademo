@@ -1,0 +1,52 @@
+{
+  "profile":{
+    "name":"Pavan Kalyan",
+    "Label":"Full Stack Developer",
+    "Email":"saipavan542@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive development"
+  },
+  "education":[
+    {
+    "Degree":"B.tech",
+    "Institute":"PVP Siddhartha",
+    "Duration":"2016-2020",
+    "Marks":"10"
+  },
+  {
+    "Degree":"Intermediate",
+    "Institute":"Sri Chaitanya Junior College",
+    "Duration":"2014-2016",
+    "Marks":"911"
+  },
+  {
+    "Degree":"SSC",
+    "Institute":"Sri Chaitanya High School",
+    "Duration":"2013-2014",
+    "Marks":"9.2"
+  }
+],
+"skills":[
+  {
+    "Title":"Languages:",
+    "Content":["C","Python","Java","c#","c++","PHP","r"]
+
+  },
+  {
+    "Title":"Dtabase:",
+    "Content":["Sql","MongoDB","MySql"]
+
+  },
+  {
+    "Title":"Web Technologies:",
+    "Content":["HTML","CSS","Javascript","PHP"]
+
+  },
+  {
+    "Title":"Frameworks:",
+    "Content":["Django","Codeigniter"]
+
+  }
+]
+}
