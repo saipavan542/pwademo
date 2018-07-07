@@ -46,12 +46,12 @@ function education(edu){
 eduTable.innerHTML=tr1;
 child2.appendChild(eduTable);
 }
-function skills(skill){
+function skills(skil){
   var ul=document.createElement("ul");
   child2.appendChild(ul);
-  for (var i = 0; i < skill.length; i++) {
+  for (var i = 0; i < skil.length; i++) {
     var li=document.createElement("li");
-    li.textContent=skill[i].Title+":"+skill[i].Content;
+    li.textContent=skil[i].title+":"+skil[i].content;
     ul.appendChild(li);
   }
 }
