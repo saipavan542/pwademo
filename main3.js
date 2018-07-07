@@ -51,7 +51,7 @@ function skills(skill){
   child2.appendChild(ul);
   for (var i = 0; i < skill.length; i++) {
     var li=document.createElement("li");
-    li.textContent=skill[i].title+":"+skill[i].content;
+    li.textContent=skill[i].Title+":"+skill[i].Content;
     ul.appendChild(li);
   }
 }
