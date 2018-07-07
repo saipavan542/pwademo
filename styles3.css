@@ -1,0 +1,118 @@
+h1{
+  text-align:center;
+}
+.parent{
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  justify-content: center;
+}
+.childOne{
+  margin: auto;
+  width:35%;
+  align-content: center;
+  padding: 4%;
+  border:5px solid #111;
+  margin: 4%;
+  text-align: center;
+  box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
+
+}
+.childTwo{
+  width:35%;
+  padding: 4%;
+  text-align: center;
+  border:5px solid red;
+  margin: 4%;
+  background-color: black;
+  color:white;
+  box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
+}
+.childThree{
+  margin: auto;
+  width:35%;
+  padding: 4%;
+  border:5px solid #111;
+  margin: 4%;
+  text-align: center;
+  background-color: blue;
+  color:white;
+  box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
+
+}
+.childFour{
+  margin: auto;
+  width:35%;
+  padding: 4%;
+  border:5px solid red;
+  margin: 4%;
+  text-align: center;
+  background-color: green;
+  color:white;
+  box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
+
+}
+img{
+  margin: auto;
+display: block;
+height:40%;
+width: 40%;
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+  .parent{
+    display:flex;
+    flex-direction:column;
+  }
+  .childOne{
+    margin: auto;
+    width:30%;
+    padding: 4%;
+    border:5px solid #111;
+    margin: 4%;
+    text-align: center;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
+  }
+  .childTwo{
+    width: 30%;
+    height: 30%;
+    padding: 4%;
+    margin: auto;
+    border:5px solid red;
+    margin: 4%;
+    background-color: black;
+    color:white;
+    text-align: center;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
+  }
+  .childThree{
+    margin: auto;
+    width:30%;
+    padding: 4%;
+    border:5px solid #111;
+    margin: 4%;
+    text-align: center;
+    background-color: blue;
+    color:white;
+    box-shadow: 5px 5px 5px black;
+      border-radius: 15px;
+  }
+  .childFour{
+    margin: auto;
+    width:30%;
+    padding: 4%;
+    border:5px solid red;
+    margin: 4%;
+    text-align: center;
+    background-color: green;
+    color:white;
+    box-shadow: 5px 5px 5px red;
+    border-radius: 15px;
+
+  }
+}
