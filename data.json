@@ -29,23 +29,23 @@
 ],
 "skills":[
   {
-    "Title":"Languages:",
-    "Content":["C","Python","Java","c#","c++","PHP","r"]
+    "title":"Languages:",
+    "content":["C","Python","Java","c#","c++","PHP","r"]
 
   },
   {
-    "Title":"Dtabase:",
-    "Content":["Sql","MongoDB","MySql"]
+    "title":"Dtabase:",
+    "content":["Sql","MongoDB","MySql"]
 
   },
   {
-    "Title":"Web Technologies:",
-    "Content":["HTML","CSS","Javascript","PHP"]
+    "title":"Web Technologies:",
+    "content":["HTML","CSS","Javascript","PHP"]
 
   },
   {
-    "Title":"Frameworks:",
-    "Content":["Django","Codeigniter"]
+    "title":"Frameworks:",
+    "content":["Django","Codeigniter"]
 
   }
 ]
